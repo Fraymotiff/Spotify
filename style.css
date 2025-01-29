@@ -57,4 +57,13 @@ body{
   font-size:14px;
   margin-top:10px;
 }
+.library .library__content .fa-plus{
+  margin: 24px 10px;
+}
 
+.section-playlist{
+  display:flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color:#242424 ;
+}
